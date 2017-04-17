@@ -8,6 +8,6 @@
 $ gimp -i -b '(crop-and-make-transparent "*.png")' -b '(gimp-quit 0)'
 ```
 
-*Result*
+**Example: crop-and-make-transparent**
 
 ![cat image](test/cat.png) vs. ![cropped cat image](test/cat_crop.png)
